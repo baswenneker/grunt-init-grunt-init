@@ -1,7 +1,7 @@
 /**
  * grunt-init-grunt-init
  * A `grunt-init` task to scaffold a `grunt-init` task.
- * @url 
+ * @url https://github.com/baswenneker/grunt-init-grunt-init
  * @author Copyright (c) 2014 Bas Wenneker
  * @license Licensed under the MIT license.
  */

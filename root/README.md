@@ -40,4 +40,4 @@ _Note that this template will generate files in the current directory, so be sur
 Copyright (c) {%= grunt.template.today('yyyy') %} {%= author_name %}
 Licensed under the {%= licenses.join(', ') %} license{%= licenses.length === 1 ? '' : 's' %}.
 ***
-Generated using [grunt-init-grunt-init]()
+Generated using [grunt-init-grunt-init](https://github.com/baswenneker/grunt-init-grunt-init)
