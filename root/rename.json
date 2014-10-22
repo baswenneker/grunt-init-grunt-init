@@ -1,0 +1,9 @@
+{
+	/*
+		rename.json contains template-specific rename rules
+		For more information, visit http://gruntjs.com/project-scaffolding#renaming-or-excluding-template-files
+		Example usage:
+		"docs/name-examples.md": "docs/{%= name %}-examples.md",
+		"lib/name.js": "lib/{%= name %}.js"
+	*/
+}
